@@ -1,0 +1,45 @@
+[
+
+
+
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/?size=100&id=geAxqWV0aAaI&format=png&color=000000"
+    },
+    {
+        "name": "Larvel",
+        "icon": "https://img.icons8.com/?size=100&id=7vdHawe2VPlT&format=png&color=000000"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/?size=100&id=v9uZbuVoWleB&format=png&color=000000"
+    },
+    {
+        "name": "MySql",
+        "icon": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000"
+    },   
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/?size=100&id=48137&format=png&color=000000"
+    },     
+    {
+        "name": "Html",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    }, 
+    {
+        "name": "Java Script",
+        "icon": "https://img.icons8.com/?size=100&id=106036&format=png&color=FCC419"
+    },   
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=52539&format=png&color=000000"
+    }   
+]

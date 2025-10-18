@@ -1220,6 +1220,10 @@ form .button-area {
   z-index: 1000;
 }
 #scroll-top.active {
+<<<<<<< HEAD
   top: calc(100% - 12rem);
+=======
+  top: calc(100% - 15rem);
+>>>>>>> 979d9f4 (Initial commit or portfolio update)
 }
 /* scroll top ends */
